@@ -4,6 +4,8 @@ O objetivo central desta análise é impulsionar o desempenho de vendas e aprofu
 <img width="456" height="301" alt="image" src="https://github.com/user-attachments/assets/19db6783-1748-4e95-94f7-1b7a722a4692" />
 
 
+
+
 Este projeto tem como objetivo analisar o desempenho de vendas da cafeteria Tiem Tra Cua ao longo do período histórico disponível, explorando métricas de receita, ticket médio, comportamento dos clientes e produtos mais consumidos. O estudo foi desenvolvido em Python, utilizando bibliotecas de análise de dados e visualização, e apresenta insights estratégicos que podem apoiar a equipe de marketing na definição de promoções e estratégias de fidelização.
 
 🔑 Principais KPIs Analisados
